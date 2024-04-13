@@ -1,4 +1,4 @@
-package App02;
+package app02;
 
 public class CriandoClassesEObjetos {
 
